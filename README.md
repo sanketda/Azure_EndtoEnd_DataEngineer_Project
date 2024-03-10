@@ -13,7 +13,7 @@ Analyse the below points
 6. Display Monthly sales
 7. Category_wise sales
 
-**Steps to done-**  
+**Steps done-**  
 
 1. Move data from on-premise SQL Server to Azure cloud Storage
 2. Create datapipeline to transfer data and run daily
