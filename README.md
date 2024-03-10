@@ -14,7 +14,7 @@ In this pizza_sales dataset we have to analyse the below points
 
 **Steps to done-**  
 
-1. Move data from SQL Server to Azure cloud Storage
+1. Move data from on-premise SQL Server to Azure cloud Storage
 2. Create datapipeline to transfer data and run daily
 3. Connect Databricks to Storage Account
 4. Create aggregated table for the reporting all business related KPI
