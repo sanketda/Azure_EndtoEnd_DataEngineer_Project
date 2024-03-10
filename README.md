@@ -1,9 +1,9 @@
 # Azure_EndtoEnd_DataEngineer_Project
 
 **Problem Statement- **
+In this project, we take premise SQL server data to Azure Blog Storage with Azure Data Factory(by using Pipeline) and then taken this data on databricks for preprocessing and used pyspark to make useful data and ignored unnecessary
 
-In this pizza_sales dataset we have to analyse the below points
-
+Analyse the below points
 1. Total Pizza sold
 2. Total Orders
 3. Sum of order_id by pizza name
