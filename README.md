@@ -2,7 +2,7 @@
 
 **Problem Statement-**
 
-In this project, we take on premise SQL server data to Azure Blog Storage with Azure Data Factory(by using Pipeline) and then taken this data on databricks for preprocessing and used pyspark to make useful data and ignored unnecessary
+In this project, we take on premise SQL server data to Azure Blog Storage with Azure Data Factory(by using Pipeline) and then taken this data on databricks for preprocessing and used pyspark and taken useful data and ignored unnecessary. After we connect new_preprocess_data with Power-Bi for visualisation.
 
 Analyse the below points
 1. Total Pizza sold
