@@ -21,6 +21,9 @@ Analyse the below points
 4. Create aggregated table for the reporting all business related KPI
 5. Create Dashboard using POWER-BI
 
+![Azure_endtoend_project](https://github.com/sanketda/Azure_EndtoEnd_DataEngineer_Project/assets/133940723/e67f2bd6-7e4c-45f3-9b9b-201cf80152e2)
+
+
 **Requiremtnts**
 
 1. SQL
