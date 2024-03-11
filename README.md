@@ -1,18 +1,37 @@
 # Azure_EndtoEnd_DataEngineer_Project
 
-**Problem Statement-**
+Certainly! Here's the information presented in a structured format:
 
-In this project, i took on premise SQL server data to Azure Blog Storage with Azure Data Factory(by using Data Pipeline) and then preprocess data on databricks(with pyspark) and connect new_preprocess_data with Power-Bi for visualisation.
+**Project Overview:**
 
-Analyse the below points-
+- **Objective:** Transforming on-premise SQL Server data into actionable insights.
+  
+- **Steps Involved:**
+  
+    1. **Data Migration:** Leveraged Azure Data Factory to transfer on-premise SQL Server data to Azure Blob Storage.
+    
+    2. **Data Preprocessing:** Utilized Databricks with Pyspark for preprocessing tasks.
+    
+    3. **Visualization:** Connected the preprocessed data to Power BI for visualization and analysis.
+    
 
-1. Total Pizza sold
-2. Total Orders
-3. Sum of order_id by pizza name
-4. Sum of order_id by pizza size
-5. Sum of quantity by pizza_category
-6. Display Monthly sales
-7. Category_wise sales
+**Key Tools and Technologies:**
+
+- **Azure Data Factory:** Used for orchestrating data movement from on-premise SQL Server to Azure Blob Storage.
+
+- **Databricks with Pyspark:** Employed for data preprocessing tasks, ensuring data quality and relevance.
+
+- **Power BI:** Connected to the preprocessed data for creating dynamic visualizations and reports.
+
+
+**Outcome:**
+
+- Seamlessly migrated and preprocessed on-premise SQL Server data.
+  
+- Created insightful visualizations in Power BI for informed decision-making.
+
+
+This format provides a clear and concise overview of the project, outlining the objectives, steps involved, key technologies used, and outcomes achieved.
 
 **Steps done-**  
 
