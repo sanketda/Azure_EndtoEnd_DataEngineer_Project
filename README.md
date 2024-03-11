@@ -2,9 +2,10 @@
 
 **Problem Statement-**
 
-In this project, we take on premise SQL server data to Azure Blog Storage with Azure Data Factory(by using Pipeline) and then taken this data on databricks for preprocessing and used pyspark and taken useful data and ignored unnecessary. After we connect new_preprocess_data with Power-Bi for visualisation.
+In this project, i took on premise SQL server data to Azure Blog Storage with Azure Data Factory(by using Data Pipeline) and then preprocess data on databricks(with pyspark) and connect new_preprocess_data with Power-Bi for visualisation.
 
-Analyse the below points
+Analyse the below points-
+
 1. Total Pizza sold
 2. Total Orders
 3. Sum of order_id by pizza name
@@ -22,6 +23,7 @@ Analyse the below points
 5. Create Dashboard using POWER-BI
 
 ![Azure_endtoend_project](https://github.com/sanketda/Azure_EndtoEnd_DataEngineer_Project/assets/133940723/e67f2bd6-7e4c-45f3-9b9b-201cf80152e2)
+
 
 
 **Requiremtnts**
