@@ -1,10 +1,8 @@
 # Azure_EndtoEnd_DataEngineer_Project
 
-Certainly! Here's the information presented in a structured format:
-
 **Project Overview:**
 
-- **Objective:** Transforming on-premise SQL Server data into actionable insights.
+- **Objective:** Transforming on-premise SQL Server data into actionable insights with the help of Azure.
   
 - **Steps Involved:**
   
@@ -45,12 +43,13 @@ This format provides a clear and concise overview of the project, outlining the 
 
 
 
-**Requiremtnts**
+**Analyse the below points-**
 
-1. SQL
-2. Azure Data Factory
-3. Azure Blob Storage
-4. Databricks
-5. Pyspark
-6. Power-Bi
+1. Total Pizza sold
+2. Total Orders
+3. Sum of order_id by pizza name
+4. Sum of order_id by pizza size
+5. Sum of quantity by pizza_category
+6. isplay Monthly sales
+7. Category_wise sales
    
